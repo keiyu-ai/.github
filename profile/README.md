@@ -16,7 +16,8 @@
   <img src="https://img.shields.io/badge/repositories-18-7C3AED" alt="18 repositories">
   <img src="https://img.shields.io/badge/merged_pull_requests-1418-2DD4BF" alt="1418 merged pull requests">
   <img src="https://img.shields.io/badge/closed_issues-827-7C3AED" alt="827 closed issues">
-  <img src="https://img.shields.io/badge/web-keiyu.dev-2DD4BF" alt="keiyu.dev">
+  <a href="https://keiyu.dev"><img src="https://img.shields.io/badge/web-keiyu.dev-2DD4BF" alt="keiyu.dev"></a>
+  <a href="https://linkedin.com/company/keiyu"><img src="https://img.shields.io/badge/LinkedIn-Keiyu-7C3AED" alt="Keiyu on LinkedIn"></a>
 </p>
 
 Keiyu is the verified knowledge layer for the daily operation of small and mid-sized companies in Latin America. It connects the email, WhatsApp conversations, documents and systems a company already uses, answers with the exact sentence from the source, warns about what is due, what does not add up and what is missing, and helps people and AI agents respond and act, always with a person's approval.
@@ -42,7 +43,12 @@ Keiyu is the verified knowledge layer for the daily operation of small and mid-s
 
 ## Status
 
-Keiyu is in early access: we work with pilot companies in Chile and enable capabilities in stages. The product is built in Spanish first, for Chilean formats and the SII.
+Keiyu is in early access and opening its first pilots in Chile. Capabilities are enabled in stages. The product is built in Spanish first, for Chilean formats and the SII.
+
+## Team
+
+- **Manuel Pérez Silva**, co-founder and CTO. [LinkedIn](https://linkedin.com/in/mperezsilva) · [GitHub](https://github.com/zaiexx)
+- **Co-founder**, business and growth.
 
 ## Company
 
@@ -52,4 +58,4 @@ Contact: hola@keiyu.dev
 
 ---
 
-**En español.** Keiyu sabe cómo opera tu empresa, y lo puede probar. Conecta tus correos, WhatsApp, documentos y sistemas, responde con la frase exacta y su origen, avisa lo que vence, lo que no cuadra y lo que falta, y ayuda a tu equipo y a tus agentes de IA a responder y actuar, siempre con la aprobación de una persona. Estamos en acceso anticipado con empresas piloto en Chile. Más en https://keiyu.dev
+**En español.** Keiyu sabe cómo opera tu empresa, y lo puede probar. Conecta tus correos, WhatsApp, documentos y sistemas, responde con la frase exacta y su origen, avisa lo que vence, lo que no cuadra y lo que falta, y ayuda a tu equipo y a tus agentes de IA a responder y actuar, siempre con la aprobación de una persona. Estamos en acceso anticipado y abriendo nuestros primeros pilotos en Chile. Más en https://keiyu.dev
